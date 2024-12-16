@@ -21,6 +21,8 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Date;
 
+/*
+
 @Component
 public class PdfBuilder {
 
@@ -267,5 +269,5 @@ public class PdfBuilder {
         }
     }
 }
-
+*/
 
